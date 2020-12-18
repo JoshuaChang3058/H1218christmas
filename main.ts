@@ -119,8 +119,6 @@ function 第一段 () {
 }
 basic.forever(function () {
     第一段()
-    第二段()
-    第一段()
     第三段()
     第四段()
     第五段()
@@ -128,4 +126,6 @@ basic.forever(function () {
     第六段()
     第七段()
     第八段()
+    第一段()
+    第二段()
 })
